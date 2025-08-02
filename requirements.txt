@@ -1,0 +1,12 @@
+numpy
+pandas
+seaborn
+notebook
+matplotlib
+jupyterlab
+ipywidgets
+jupyter-lsp
+jupyterlab-lsp
+python-dotenv
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
